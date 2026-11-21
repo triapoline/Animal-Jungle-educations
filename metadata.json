@@ -1,0 +1,6 @@
+{
+  "name": "BioQuest 3D: Forest Explorer",
+  "description": "An interactive 3D first-person tropical rainforest exploration game aligned with the Singapore MOE Primary Science syllabus (P3-P6 & Lower Secondary Bridge).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
